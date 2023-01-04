@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\bin\Debug\netcoreapp3.1\AnonymTelegramChat.exe
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\bin\Debug\netcoreapp3.1\AnonymTelegramChat.deps.json
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\bin\Debug\netcoreapp3.1\AnonymTelegramChat.runtimeconfig.json
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\bin\Debug\netcoreapp3.1\AnonymTelegramChat.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\bin\Debug\netcoreapp3.1\AnonymTelegramChat.dll
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\bin\Debug\netcoreapp3.1\AnonymTelegramChat.pdb
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\obj\Debug\netcoreapp3.1\AnonymTelegramChat.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\obj\Debug\netcoreapp3.1\AnonymTelegramChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\obj\Debug\netcoreapp3.1\AnonymTelegramChat.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\obj\Debug\netcoreapp3.1\AnonymTelegramChat.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\obj\Debug\netcoreapp3.1\AnonymTelegramChat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\obj\Debug\netcoreapp3.1\AnonymTelegramChat.csproj.CopyComplete
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\obj\Debug\netcoreapp3.1\AnonymTelegramChat.dll
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\obj\Debug\netcoreapp3.1\AnonymTelegramChat.pdb
+C:\Users\Admin\source\repos\AnonymTelegramChat\AnonymTelegramChat\obj\Debug\netcoreapp3.1\AnonymTelegramChat.genruntimeconfig.cache
